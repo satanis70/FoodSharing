@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">FoodSharing</string>
+    <string name="hint_login_email">Введите ваш email</string>
+    <string name="hint_login_password">Введите пароль</string>
+    <string name="button_sign_in_text">Войти</string>
+    <string name="registration">Регистрация</string>
+    <string name="loading">Загрузка…</string>
+    <string name="email_not_valid">Введите корректный email</string>
+    <string name="password_not_valid">Пароль должен быть не менее 6 символов</string>
+    <string name="email_empty">Введите email</string>
+    <string name="password_empty">Введите пароль</string>
+    <string name="error_sign_in">Произошла ошибка</string>
+    <string name="error_sign_in_password">Пароль введен неверно</string>
+    <string name="error_sign_in_email_not_found">Такого пользователя не существует</string>
+    <string name="e_mail_hint">Введите ваш e-mail</string>
+    <string name="password_hint">Введите пароль</string>
+    <string name="password_hint_confirm">Введите пароль еще раз</string>
+    <string name="user_name_hint">Введите ваше имя</string>
+    <string name="button_registration">Зарегестрироваться</string>
+    <string name="fargot_password">Восстановить пароль?</string>
+    <string name="yes">Да</string>
+    <string name="no">Нет</string>
+    <string name="forgot">Восстановить</string>
+</resources>
